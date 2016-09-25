@@ -1,0 +1,5 @@
+OneShotEventIntent get events for {City} {State}
+OneshotEventIntent get e for {City} {State} {Date}
+
+DialogEventIntent {Date}
+
