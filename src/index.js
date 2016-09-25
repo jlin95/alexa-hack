@@ -10,7 +10,7 @@ var url = function(id) {
 }
 
 var getJsonFromEB = function(id, callback) {
-    
+
 }
 TicketingSystem = function () {
     AlexaSkill.call(this, APP_ID);
@@ -250,7 +250,7 @@ function getFinalEventResponse(cityStation, date, response) {
         }
 
         response.tellWithCard(speechOutput,
-            TicketingSystem", speechOutput)
+            TicketingSystem, speechOutput)
     });
 }
 
